@@ -1,7 +1,5 @@
 <template>
-
-    <!-- Start Footer 
-    ============================================= -->
+    
     <footer class="bg-dark text-light">
         <div class="container">
             <div class="f-items default-padding">
@@ -139,9 +137,8 @@
 
 <script>
 export default {
-  name: 'HelloWorld',
-  props: {
-    msg: String
+  name: 'OilFooter',
+  props: { 
   }
 }
 </script>
